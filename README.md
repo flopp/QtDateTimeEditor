@@ -1,6 +1,6 @@
 # QtDateTimeEditor
 
-A user and keyboard friendly alternative to Qt's QDateTimEdit. MIT licensed.
+A user and keyboard friendly alternative to Qt's QDateTimeEdit. MIT licensed.
 
 ## Features:
 
