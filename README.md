@@ -2,6 +2,8 @@
 
 A user and keyboard friendly alternative to Qt's QDateTimeEdit. MIT licensed.
 
+![Animation](https://raw.githubusercontent.com/flopp/flopp.github.io/master/QtDateTimeEditor/animation.gif)
+
 ## Features:
 
 * Easy keyboard navigation using cursor and tab keys
